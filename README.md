@@ -2,7 +2,7 @@
 
 1. Gör en fork
 2. Klona ner din fork
-3. Skapa innehåll
+3. Skapa innehåll - har redan innehåll :demon:
 4. Lägg till material
     - text
     - bilder
