@@ -1,13 +1,14 @@
 @font-face {
-  font-family: 'KerakNeraka';
+  font-family: 'KerakNerka';
   src: url('./KerakNeraka-8Oaoz.otf');
   font-weight: normal;
   font-style: normal;
-}
+  font-style: italic;
+ }
 
 :root {
-  --color-bg: rgba(103, 157, 157, 0.587);
-  --color-fg: #fff;
+  --color-bg: rgba(123, 3, 3, 0.584);
+  --color-fg: #340986;
 
   --font-body: sans-serif;
   --font-header: 'KerakNeraka', sans-serif;
@@ -33,6 +34,8 @@ body {
     place-items: center;
     background-color: var(--color-bg);
     z-index: -1;
+    background-image: (julwebp)
+    
 }
 
 main {
